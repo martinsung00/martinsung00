@@ -15,6 +15,7 @@ My name is Martin Sung and I am a full-stack engineer from San Francisco, Califo
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 </p>
