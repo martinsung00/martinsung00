@@ -20,8 +20,25 @@ My name is Martin Sung and I am a full-stack engineer from San Francisco, Califo
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 </p>
 
-- I recently worked in an agile team of four and wrote a microservice that displays user-generated reviews and product ratings. <a href="https://github.com/martinsung00/Nike-Replica-Reviews-Service">Take a look here</a>!
+- I love trying to solve real world problems no matter how small or big they are! Check out this in-development universal seeder that could potentially speed up the integration and unit testing phase by seeding your chose database with mock data automatically upon a simple function call. <a href="https://github.com/martinsung00/Frostbolt">It's right over here!</a>
+- I love developing mini side projects when I learn new techniques like React hooks and Sass! <a href="https://github.com/martinsung00/just_clocks">Like this recent project<a/>.
+
+  <br/>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/61127851/120885165-59f91c00-c59c-11eb-9b28-bcb89992781a.gif" alt="just-clocks-gify" height="170" width="400"
+    />
+  </p>
+  <br/>
+  
 - I have experience writing full-stack applications in TypeScript, and here's <a href="https://github.com/martinsung00/thoridal">an example</a> you may find interesting!
+  
+  <br/>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/61127851/120885423-a5f89080-c59d-11eb-8214-f762ab1b35e6.png" alt="thoridal-home" height="200" width="400"       />
+  </p>
+  <br/>
+  
+- I recently worked in an agile team of four and wrote a microservice that displays user-generated reviews and product ratings. <a href="https://github.com/martinsung00/Nike-Replica-Reviews-Service">Take a look here</a>!
 
 ---
 
