@@ -20,7 +20,7 @@ My name is Martin Sung and I am a full-stack engineer from San Francisco, Califo
   <img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
 </p>
 
-- I love trying to solve real world problems no matter how small or big they are! Check out this in-development universal seeder that could potentially speed up the integration and unit testing phase by seeding your chose database with mock data automatically upon a simple function call. <a href="https://github.com/martinsung00/Frostbolt">It's right over here!</a>
+- I love trying to solve real world problems no matter how small or big they are! Check out this in-development universal seeder that could potentially speed up integration & unit testing by seeding your chosen database with mock data. <a href="https://github.com/martinsung00/Frostbolt">It's right over here!</a>
 - I love developing mini side projects when I learn new techniques like React hooks and Sass! <a href="https://github.com/martinsung00/just_clocks">Like this recent project<a/>.
 
   <br/>
